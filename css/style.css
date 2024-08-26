@@ -6,9 +6,6 @@ body{
     flex-direction: column;
     background: rgb(0,0,0);
     background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(8,32,64,1) 50%, rgba(0,0,0,1) 100%);
-    min-height: 100%;
-    width: 100%;
-    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
